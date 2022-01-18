@@ -1,0 +1,224 @@
+*{
+  padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+html body {
+	font-family: 'Poppins', sans-serif;
+	background-color: #2b2d42;
+
+}
+
+.crpic{
+  width: 200px;
+height: 350px;
+
+}
+
+
+#profileimage{
+  width: 250px;
+  height: 350px;
+	border-radius: 50px;
+-webkit-box-shadow:0px 0px 105px 45px rgba(19,242,175,0.9);
+-moz-box-shadow: 0px 0px 105px 45px rgba(19,242,175,0.9);
+box-shadow: 0px 0px 105px 45px rgba(19,242,175,0.9);
+     
+      }
+
+#programmerimage{
+  width: 350px;
+  height: 450px;
+
+  }
+#greetings{
+ 	display: inline-block;
+ 	background-color: #59FFA0;
+ 	font-size: 20px;
+ 	font-family: ;
+ 	border: 1px solid  #59FFA0;
+ 	border-radius: 10px;
+ 	padding: 4px;
+ 	color: darkslategray;
+
+
+ }
+
+ #aboutme{
+  display: inline-block;
+  
+  font-size: 30px;
+  font-family: ;
+color: #59FFA0;
+  border-radius: 10px;
+  padding: 4px;
+   text-shadow: black;
+   text-shadow: 2px 2px #000000;
+ }
+
+ #educbg{
+  display: inline-block;
+  
+
+    
+  font-size: 30px;
+  font-family: ;
+color: #59FFA0;
+  border-radius: 10px;
+  padding: 4px;
+   text-shadow: black;
+   text-shadow: 2px 2px #000000;
+
+ }
+  #workexptext{
+  display: inline-block;
+  
+
+    
+  font-size: 30px;
+  font-family: ;
+color: #59FFA0;
+  border-radius: 10px;
+  padding: 4px;
+   text-shadow: black;
+   text-shadow: 2px 2px #000000;
+
+ }
+ .info
+ {
+ 
+font-family: 'Roboto Slab', serif;
+font-size: 17px;
+ margin: 0px;
+ }
+ .mapmarker{
+ 	width: 20px;
+ 	height: 20px;
+ }
+  .tel{
+ 	width: 20px;
+ 	height: 20px;
+
+ }
+   .email{
+ 	width: 20px;
+ 	height:20x;
+
+ }
+    .website{
+  width: 20px;
+  height:20x;
+
+ }
+
+
+.p1{
+  margin: auto;
+  font-size: 17px;
+  padding-top: 20px;
+    text-shadow: black;
+   text-shadow: 2px 2px #000000;
+}
+
+
+.lc{
+  color: smoke;
+}
+
+body nav a:hover {
+  text-decoration: none;
+color: white;
+ background-color: #59FFA0;
+ padding: 5px;
+ margin: 5px;
+ border-radius: 10px;
+   text-shadow: black;
+   text-shadow: 2px 2px #000000;
+}
+.an1{
+  animation: mymove 3s ;
+  animation-direction: alternate;
+}
+.an2{
+  animation: mymove2 3s ;
+  animation-direction: alternate;
+}
+@keyframes mymove {
+  from {left: -50px;}
+  to {left: 0px;}
+}
+@keyframes mymove2 {
+  from {right: -50px;}
+  to {right: 0px;}
+}
+ #skills{
+color: white;
+text-decoration: none;
+
+ }
+.carouselwidth{
+width: 500px;
+height: 300px;
+}
+.carousel-item{
+  width: 300px;
+  height: 250px;
+}
+
+.car1
+{
+  color: white;
+  text-shadow: black;
+   text-shadow: 2px 2px #000000;
+}
+div .progress {
+  font-size: 15px;
+}
+#skills{
+  height: auto;
+  width: 80%;
+  
+}
+#skillstext{
+
+  font-size: 30px;
+  font-family: ;
+color: #59FFA0;
+  border-radius: 10px;
+  padding: 4px;
+   text-shadow: black;
+   text-shadow: 2px 2px #000000;
+}
+#skillstext{
+    
+  font-size: 30px;
+  font-family: ;
+color: #59FFA0;
+  border-radius: 10px;
+  padding: 4px;
+   text-shadow: black;
+   text-shadow: 2px 2px #000000;
+}
+
+
+#support{
+  height: 450px;
+  width: 750px;
+  margin: auto;
+  padding: auto;
+
+}
+.messageme{
+   display: inline-block;
+  
+  font-size: 30px;
+  font-family: ;
+color: #59FFA0;
+  border-radius: 10px;
+  padding: 4px;
+   text-shadow: black;
+   text-shadow: 2px 2px #000000;
+}
+.form1{
+  border-radius: 500px;
+}

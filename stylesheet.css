@@ -228,6 +228,8 @@ color: #5cb85c;
 {
   height: 350px;
   width:  750px;
+  width: auto
+ 
   border-radius: 10px;
   border: 2px solid #5cb85c;
 }
